@@ -14,8 +14,7 @@ grocery store will be displayed.
 My in-line comments and code to analyze the user's input file are particularly 
 strong. I believe the code is clear, concise, and effective.
 
-# Where could you enhance your code? How would these improvements make your code  
-# more efficient, secure, and so on?
+# Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
 I could enhance my code when it comes to handling exceptions. I encountered some
 problems with error handling in the code that communicated between C++ and Python.
 Because of this, sometimes the menu loops and sometimes it does not. Handling 
@@ -23,8 +22,7 @@ exceptions better would make the code more efficient by handling problems as the
 are encountered, and it would make the code more secure by checking that input is
 valid.
 
-# Which pieces of the code did you find most challenging to write, and how did you 
-# overcome this? What tools or resources are you adding to your support network?
+# Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
 The piece of code I found the most challenging to write was the Python code that
 read in the contents of a file and analyzed it, namely by counting how many times
 each unique item was purchased throughout the day. I hesitated between using a 
@@ -34,8 +32,7 @@ menu display). I am adding an invaluable tool and resource to my support network
 the form of the knowledge of how to integrate languages and make them cooperate 
 efficiently and effectively.
 
-# What skills from this project will be particularly transferable to other projects 
-# or course work?
+# What skills from this project will be particularly transferable to other projects or course work?
 I believe that the skill of integrating C++ and Python is particularly transferable 
 to other projects and course work. This is evident in the fact that we built off of
 the same code for three separate projects. I believe this skill will have 
