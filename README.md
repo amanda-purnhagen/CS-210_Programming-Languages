@@ -1,5 +1,4 @@
-# CS-210
-SNHU Computer Science 210 - Programming Languages
+# CS-210_Programming-Languages
 
 # Project summary. What is being solved?
 The purpose of this program is to learn how to integrate Python code and C++ code.
